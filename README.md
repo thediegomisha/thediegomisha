@@ -132,4 +132,5 @@ const theathoq = {
 </p>
 
 ## 📚 Stats and dev activity
-![thediegomisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=thediegomisha&show_icons=true&theme=radical)
+![thediegomisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=thediegomisha&show_icons=true&theme=radical)<p>
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=thediegomisha&layout=compact&theme=tokyonight&hide_border=true)
