@@ -4,7 +4,7 @@
 Soy un desarrollador de software apasionado por crear soluciones que realmente importen. Me encanta aprender nuevas tecnologías y colaborar en proyectos que marquen la diferencia. Siempre estoy dispuesto a ayudar y aprender de la comunidad.
 
 ```javascript
-const paul = {
+const theathoq = {
   name: "Juan Luis Diaz",
   role: "Software Developer",
   mindset: ["Aprendizaje continuo", "Colaboración", "Código limpio"],
