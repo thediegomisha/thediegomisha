@@ -8,9 +8,29 @@ const theathoq = {
   name: "Juan Luis Diaz",
   role: "Software Developer",
   mindset: ["Aprendizaje continuo", "Colaboración", "Código limpio"],
+  techStack: ["JavaScript", "TypeScript", "Node.js", "React", "Terraform", "AWS"],
   currentlyLearning: "Nuevas formas de hacer las cosas mejor",
+  learningNext: ["Go", "Rust", "Kubernetes"],
+  projects: [
+    {
+      name: "Infraestructura como código en AWS",
+      stack: ["Terraform", "AWS", "CI/CD"],
+      link: "https://github.com/thediegomisha/aws_terraform"
+    }
+  ],
+  workStyle: {
+    prefersRemote: true,
+    lovesPairProgramming: true,
+    productivityMusic: "Lo-fi 🎧"
+  },
+  contact: {
+    github: "https://github.com/thediegomisha",
+    linkedin: "[https://linkedin.com/in/thediegomisha](https://www.linkedin.com/in/juan-luis-diaz-aylas-a74137117/)",
+    email: "juludiaz@gmail.com"
+  },
   funFact: "Me gusta pensar que cada bug es una oportunidad de mejora 🐛➡️✨"
 };
+
 ```
 
 ## 💬 Ask me about
