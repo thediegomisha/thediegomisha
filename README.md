@@ -25,7 +25,7 @@ const theathoq = {
   },
   contact: {
     github: "https://github.com/thediegomisha",
-    linkedin: "[https://linkedin.com/in/thediegomisha](https://www.linkedin.com/in/juan-luis-diaz-aylas-a74137117/)",
+    linkedin: "(https://www.linkedin.com/in/juan-luis-diaz-aylas-a74137117/)",
     email: "juludiaz@gmail.com"
   },
   funFact: "Me gusta pensar que cada bug es una oportunidad de mejora 🐛➡️✨"
