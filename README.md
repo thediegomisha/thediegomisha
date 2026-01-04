@@ -154,5 +154,5 @@ const theathoq = {
 ## 📚 Stats and dev activity
 ![thediegomisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=thediegomisha&show_icons=true&theme=radical)<p>
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=thediegomisha&layout=compact&theme=tokyonight&hide_border=false)<p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thediegomisha&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thediegomisha&theme=dark&locale=es)](https://git.io/streak-stats)
 
